@@ -3,7 +3,7 @@ import Navbar from './allComponents/Navbar'
 import './App.css'
 import Hero from './allComponents/Hero'
 import Banner from './allComponents/Banner'
-
+import Features from './allComponents/Features'
 function App() {
 
 
@@ -12,6 +12,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <Banner/>
+      <Features/>
     </>
   )
 }
